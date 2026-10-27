@@ -20,7 +20,7 @@ Authors@R: c(person(
     person(
       given = "Jesús Maria", 
       family = "Gonzalez",
-      email = "s260501@dtu.dk",
+      email = "s263501@dtu.dk",
       role = c("aut")),
     person(
       given = "Joshua Christopher", 
@@ -34,6 +34,10 @@ Encoding: UTF-8
 LazyData: true
 Depends: 
     R (>= 3.5)
+RoxygenNote: 7.3.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
 Config/roxygen2/version: 8.1.1
 Suggests: 
     knitr,
