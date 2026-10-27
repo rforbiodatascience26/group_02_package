@@ -6,9 +6,6 @@
 \usage{
 name_me1(name_me2)
 }
-\arguments{
-\item{name_me2}{}
-}
 \value{
 Thymine to Uracil
 }
