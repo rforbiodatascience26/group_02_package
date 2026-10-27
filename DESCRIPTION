@@ -1,0 +1,36 @@
+Package: LabEight
+Type: Package
+Title: g02lab8
+Version: 0.1.0
+Authors@R: c(person(
+      given = "William", 
+      family = "Doré",
+      email = "william.dore@hotmail.com",
+      role = c("aut", "cre")),
+    person(
+      given = "Jan Leon Graca", 
+      family = "dos Santos",
+      email = "s261570@dtu.dk",
+      role = c("aut")),
+    person(
+      given = "Alex Richard Ejby", 
+      family = "Hansen",
+      email = "s147082@dtu.dk",
+      role = c("aut")),
+    person(
+      given = "Jesús Maria", 
+      family = "Gonzalez",
+      email = "s260501@dtu.dk",
+      role = c("aut")),
+    person(
+      given = "Joshua Christopher", 
+      family = "Lopez",
+      email = "s262110@dtu.dk",
+      role = c("aut")),
+  )
+Description: An R package created for learning purposes during lab eight of the "R for Bio Data Science" course.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 3.5)
