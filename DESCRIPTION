@@ -26,7 +26,7 @@ Authors@R: c(person(
       given = "Joshua Christopher", 
       family = "Lopez",
       email = "s262110@dtu.dk",
-      role = c("aut")),
+      role = c("aut"))
   )
 Description: An R package created for learning purposes during lab eight of the "R for Bio Data Science" course.
 License: MIT + file LICENSE
@@ -35,3 +35,6 @@ LazyData: true
 Depends: 
     R (>= 3.5)
 Config/roxygen2/version: 8.1.1
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
